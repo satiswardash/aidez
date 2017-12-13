@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "682580019568",
+    "firebase_url": "https://aidez-5b355.firebaseio.com",
+    "project_id": "aidez-5b355",
+    "storage_bucket": "aidez-5b355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682580019568:android:f7e228cdf837b325",
+        "android_client_info": {
+          "package_name": "com.kortain.aidez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682580019568-4jk33oenkshg1ti1tmukbprcnrupf7sp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kortain.aidez",
+            "certificate_hash": "dbe098fb3e7567e3c9d95900b004a54974cf8b94"
+          }
+        },
+        {
+          "client_id": "682580019568-68lhrnr508jjnpuem2aeue712o6eo8gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADCruo5331yYKgQ4IpC_xGokRdHv10YcE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682580019568-68lhrnr508jjnpuem2aeue712o6eo8gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
